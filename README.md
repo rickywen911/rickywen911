@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer at [INFI](https://infi.us) in Chicago, IL 🌆
+I'm a software engineer at [PayPal](https://www.paypal.com/us/home) in Chicago, IL 🌆
 
 - 🔭 I’m currently working on the [Custom navigation bar](https://github.com/rickywen911/custom_bubble_navigation_bar)
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev) and [Android](https://www.android.com/).
